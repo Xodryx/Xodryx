@@ -1,16 +1,14 @@
-## Hi there 👋
+### Ciao 👋 Sono Rodrigo
 
-<!--
-**Xodryx/Xodryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend developer** con 6 anni di esperienza in **PHP**.
+Attualmente costruisco API REST pulite, testate e dockerizzate.
 
-Here are some ideas to get you started:
+🔭 **In evidenza:** [minigestionale](https://github.com/Xodryx/minigestionale) —
+REST API gestionale in Laravel 12, containerizzata con Docker e coperta da feature test.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Stack**
+`PHP` · `Laravel` · `Angular` · `TypeScript` · `MySQL` · `REST API` · `Docker` · `Git`
+
+📫 **Disponibile per** collaborazioni remote freelance / part-time — www.linkedin.com/in/rodrigo-manuguerra-49848a182
+
+<img src="https://github-readme-stats.vercel.app/api?username=Xodryx&show_icons=true&hide_border=true" alt="GitHub stats" />
