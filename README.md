@@ -3,9 +3,6 @@
 **Backend developer** con 6 anni di esperienza in **PHP**.
 Attualmente costruisco API REST pulite, testate e dockerizzate.
 
-🔭 **In evidenza:** [minigestionale](https://github.com/Xodryx/minigestionale) —
-REST API gestionale in Laravel 12, containerizzata con Docker e coperta da feature test.
-
 🛠️ **Stack**
 `PHP` · `Laravel` · `Angular` · `TypeScript` · `MySQL` · `REST API` · `Docker` · `Git`
 
