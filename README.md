@@ -1,11 +1,12 @@
-### Ciao 👋 Sono Rodrigo
+### Hi, I'm Rodrigo 👋
 
-**Backend developer** con 6 anni di esperienza in **PHP**.
-Attualmente costruisco API REST pulite, testate e dockerizzate.
+Backend developer with 6 years of PHP experience, focused on building clean,
+tested, and containerized REST APIs.
 
-🛠️ **Stack**
-`PHP` · `Laravel` · `Angular` · `TypeScript` · `MySQL` · `REST API` · `Docker` · `Git`
+**Stack:** PHP · Laravel · Angular · TypeScript · MySQL · REST APIs · Docker · Git
 
-📫 **Disponibile per** collaborazioni remote freelance / part-time — www.linkedin.com/in/rodrigo-manuguerra-49848a182
+**Currently:** building [BookingHub](https://github.com/Xodryx/bookinghub) —
+a multi-tenant booking SaaS (Laravel + Angular + Docker).
 
-<img src="https://github-readme-stats.vercel.app/api?username=Xodryx&show_icons=true&hide_border=true" alt="GitHub stats" />
+📫 Open to remote freelance / part-time collaborations
+[LinkedIn](https://www.linkedin.com/in/rodrigo-manuguerra-49848a182)
